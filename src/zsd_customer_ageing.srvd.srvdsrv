@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definition'
+define service Zsd_customer_ageing {
+  expose ZCE_CUSTOMER_AGEING;
+}
